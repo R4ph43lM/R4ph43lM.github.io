@@ -1,8 +1,51 @@
-<html> 
-  <style> 
-    .a {
-      aucune idée quoi faire 
-      
-    }
-  </style>
-</html>
+<style>
+			      	  p {
+			            font-family: "Helvetica", sans-serif;
+			        }
+				 td {
+			            font-family: "Helvetica", sans-serif;
+			        }
+				 th {
+			            font-family: "Helvetica", sans-serif;
+			        }
+				 ul {
+			            font-family: "Helvetica", sans-serif;
+			        }
+				.boite {
+				     width: 300px;
+				     height: 25px;
+				     border: 2px solid black;
+				     padding: 10px;
+				     margin: 10px;
+				     background-color: rgb(255,255,255);
+				}
+				.boite2 {
+				     width: 400px;
+				     height: 25px;
+				     border: 2px solid black;
+				     padding: 10px;
+				     margin: 10px;
+				     background-color: rgb(255,255,255);
+				}
+				.longboite {
+				     width: 700px;
+				     height: 25px;
+				     border: 2px solid black;
+				     padding: 10px;
+				     margin: 10px;
+				     background-color: rgb(255,255,255);
+				}
+				.petiteboite {
+				     width: 500px;
+				     height: 25px;
+				     border: 2px solid black;
+				     padding: 10px;
+				     margin: 10px;
+				     background-color: rgb(255,255,255);
+				#color {
+			             background-color: rgb(255,255,255);
+				}
+				h1 {
+				      font-family: "Helvetica", sans-serif;
+				}
+			</style> 
